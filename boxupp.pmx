@@ -1,0 +1,10 @@
+---
+name: boxupp
+description: this is just for testing
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: boxupp_debian-base_latest
+  source: boxupp/debian-base:latest
+  type: Default
